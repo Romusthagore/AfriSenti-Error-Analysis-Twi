@@ -49,7 +49,7 @@ The 😁 emoji overrides the negative text.
 
 The model's limitation is **data-related** (class imbalance + misleading emojis), not architectural.
 
-### For Future Work (Fon/Goun)
+### For Future Work 
 - Collect 30-40% neutral examples
 - Convert emojis to text carefully
 - Keep ! and ? (they work well)
